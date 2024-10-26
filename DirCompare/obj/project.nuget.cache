@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PK65zV+AaO0=",
+  "success": true,
+  "projectFilePath": "E:\\MyPrograms\\C#\\DirCompare\\DirCompare\\DirCompare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\sylvan.data\\0.2.16\\sylvan.data.0.2.16.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\sylvan.data.excel\\0.4.25\\sylvan.data.excel.0.4.25.nupkg.sha512"
+  ],
+  "logs": []
+}
